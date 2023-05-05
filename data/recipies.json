@@ -1,0 +1,411 @@
+{
+    "chef": [
+        {
+            "id": "chef001",
+            "chefName": "Sanjeev Kapoor",
+            "chefPhoto": "https://images.yourstory.com/cs/7/4c455a90a21411e98b07315772315642/SANJEEVKAPOORPLACEHOLDERFotor-1599113083364.png",
+            "bio": "Sanjeev Kapoor is a renowned chef, author, and TV personality known for his expertise in Indian cuisine. He has authored over 150 cookbooks and hosted several TV shows, including 'Khana Khazana.'",
+            "likes": 10000,
+            "numRecipes": 500,
+            "yearsExperience": 30,
+            "recipes": [
+              {
+                "recipeId": "rec001",
+                "name": "Butter Chicken",
+                "ingredients": [
+                  "chicken",
+                  "butter",
+                  "tomato puree",
+                  "cream",
+                  "spices"
+                ],
+                "cookingMethod": "Marinate chicken in spices, grill until cooked through. In a separate pan, melt butter and add tomato puree and cream. Add chicken to the sauce and let simmer for a few minutes. Serve hot.",
+                "rating": 4.8,
+                "recipePhoto": "https://niksharmacooks.com/wp-content/uploads/2022/11/ButterChickenDSC_5616.jpg"
+              },
+              {
+                "recipeId": "rec002",
+                "name": "Palak Paneer",
+                "ingredients": [
+                  "paneer",
+                  "spinach",
+                  "onion",
+                  "tomato",
+                  "spices"
+                ],
+                "cookingMethod": "Blanch spinach and puree in a blender. In a separate pan, saute onions and tomatoes until soft. Add spices and spinach puree. Add paneer and let simmer for a few minutes. Serve hot.",
+                "rating": 4.5,
+                "recipePhoto": "https://www.seriouseats.com/thmb/lhYY8CqBJoDwxj57KFAiY9pORhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG"
+              },
+              {
+                "recipeId": "rec003",
+                "name": "Samosas",
+                "ingredients": [
+                  "potatoes",
+                  "peas",
+                  "flour",
+                  "spices",
+                  "oil"
+                ],
+                "cookingMethod": "Boil potatoes and mash with peas and spices. Make a dough with flour and water. Roll out dough and cut into circles. Fill each circle with potato mixture and fold into a triangle. Fry in hot oil until golden brown. Serve hot.",
+                "rating": 4.6,
+                "recipePhoto": "https://www.seriouseats.com/thmb/4HxqFS6SHsh1XBCXWWHbsyrGOxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210909-SAMOSAS-ANDREWJANJIGIAN-86-ca872c2eae8e4e7eb4e7b47cfad8715e.jpg"
+              },
+              {
+                "recipeId": "rec004",
+                "name": "Chole Bhature",
+                "ingredients": [
+                  "chickpeas",
+                  "flour",
+                  "spices",
+                  "oil",
+                  "yogurt"
+                ],
+                "cookingMethod": "Soak chickpeas overnight. Boil chickpeas with spices until cooked through. Make a dough with flour and yogurt. Roll out dough and fry in hot oil until puffed up. Serve hot with chickpeas.",
+                "rating": 4.7,
+                "recipePhoto": "https://www.edeka.de/media/01_Rezeptbilder/Rezeptbilder-A-D/REZ_EDEKA-Chole-Bhature-Rezept-A-D.jpg?imwidth=960&imdensity=1"
+              }
+            ]
+        },
+        {
+            "id": "chef002",
+            "chefName": "Vikas Khanna",
+            "chefPhoto": "https://img.mensxp.com/media/content/2018/Mar/the-incredible-and-inspirational-story-of-vikas-khanna-1400x653-1521115740.jpg?w=820&h=540&cc=1",
+            "bio": "Vikas Khanna is an award-winning Michelin-starred chef, restaurateur, cookbook author, and filmmaker. He has been honored by several prestigious institutions, including the James Beard Foundation, and has appeared on many TV shows.",
+            "likes": 12000,
+            "numRecipes": 300,
+            "yearsExperience": 25,
+            "recipes": [
+                {
+                  "recipeId": "rec005",
+                  "name": "Paneer Tikka Masala",
+                  "ingredients": [
+                    "paneer",
+                    "yogurt",
+                    "spices",
+                    "onions",
+                    "tomatoes"
+                  ],
+                  "cookingMethod": "Marinate paneer in yogurt and spices, grill until slightly charred. In a separate pan, sauté onions and tomatoes with spices. Add paneer to the pan and let simmer for a few minutes. Serve hot.",
+                  "rating": 4.7,
+                  "recipePhoto": "https://img.taste.com.au/1xpeJEYD/taste/2019/06/one-pan-paneer-and-spinach-tikka-masala-150801-1.jpg"
+                },
+                {
+                  "recipeId": "rec006",
+                  "name": "Chicken Biryani",
+                  "ingredients": [
+                    "chicken",
+                    "rice",
+                    "spices",
+                    "onions",
+                    "yogurt"
+                  ],
+                  "cookingMethod": "Marinate chicken in yogurt and spices, cook rice separately. In a separate pan, sauté onions and spices. Add chicken to the pan and let simmer for a few minutes. Layer chicken and rice in a pot and cook until heated through. Serve hot.",
+                  "rating": 4.9,
+                  "recipePhoto": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg"
+                },
+                {
+                  "recipeId": "rec007",
+                  "name": "Fish Curry",
+                  "ingredients": [
+                    "fish",
+                    "coconut milk",
+                    "spices",
+                    "tomatoes",
+                    "onions"
+                  ],
+                  "cookingMethod": "Sauté onions and tomatoes in a pan with spices. Add fish and coconut milk, let simmer for a few minutes. Serve hot.",
+                  "rating": 4.5,
+                  "recipePhoto": "https://vismaifood.com/storage/app/uploads/public/daa/96d/7bc/thumb__700_0_0_0_auto.jpg"
+                },
+                {
+                  "recipeId": "rec008",
+                  "name": "Mango Lassi",
+                  "ingredients": [
+                    "mango",
+                    "yogurt",
+                    "milk",
+                    "sugar",
+                    "cardamom"
+                  ],
+                  "cookingMethod": "Blend all ingredients together in a blender until smooth. Serve cold.",
+                  "rating": 4.6,
+                  "recipePhoto": "https://images.ctfassets.net/99ef2wobcp71/6mENakwQnsLG25HYrvFWFP/60213587c6d58f13f168022bb2211d2c/14_Dairy-Free_Mango_Lassi.jpg"
+                }
+              ]
+          },
+          {
+            "id": "chef003",
+            "chefName": "Ranveer Brar",
+            "chefPhoto": "https://upload.wikimedia.org/wikipedia/en/a/a1/Ranveer_Brar_Wiki_Image.jpg",
+            "bio": "Ranveer Brar is an Indian celebrity chef, TV show host, and author.",
+            "likes": 50000,
+            "numRecipes": 200,
+            "yearsExperience": 20,
+            "recipes": [
+                {
+                  "recipeId": "rec009",
+                  "recipeName": "Butter Chicken",
+                  "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "onion",
+                    "butter",
+                    "cream"
+                  ],
+                  "cookingMethod": "Grill chicken, cook onion and tomato with spices, add chicken and cream.",
+                  "rating": 4.5,
+                  "recipePhoto": "https://saltandbaker.com/wp-content/uploads/2019/12/Indian-Butter-Chicken-Recipe-featured.jpg"
+                },
+                {
+                  "recipeId": "rec010",
+                  "recipeName": "Biryani",
+                  "ingredients": [
+                    "basmati rice",
+                    "chicken",
+                    "onion",
+                    "yogurt",
+                    "spices"
+                  ],
+                  "cookingMethod": "Cook rice, saute onion and chicken with spices, layer rice and chicken mixture, and cook on low heat.",
+                  "rating": 4.0,
+                  "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg"
+                },
+                {
+                  "recipeId": "rec011",
+                  "recipeName": "Paneer Tikka Masala",
+                  "ingredients": [
+                    "paneer",
+                    "onion",
+                    "tomatoes",
+                    "spices",
+                    "cream"
+                  ],
+                  "cookingMethod": "Grill paneer and onion, cook tomato and spices, add cream and paneer and onion mixture.",
+                  "rating": 4.2,
+                  "recipePhoto": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Vegetables_Gravy/Paneer_Tikka_Masala_Recipe-1.jpg"
+                },
+                {
+                  "recipeId": "rec012",
+                  "recipeName": "Gulab Jamun",
+                  "ingredients": [
+                    "milk powder",
+                    "flour",
+                    "sugar",
+                    "cardamom",
+                    "rosewater"
+                  ],
+                  "cookingMethod": "Mix milk powder, flour, and water to form dough, shape into balls and fry, make syrup with sugar, cardamom, and rosewater and add the balls.",
+                  "rating": 4.3,
+                  "recipePhoto": "https://static.toiimg.com/thumb/63799510.cms?imgsize=1091643&width=800&height=800"
+                }
+              ]            
+          },
+          {
+            "id": "chef004",
+            "chefName": "Manish Mehrotra",
+            "chefPhoto": "https://example.com/chef/manish-mehrotra.jpg",
+            "bio": "Manish Mehrotra is an award-winning Indian chef, restaurateur, and cookbook author. He is the Executive Chef at Indian Accent, which has been ranked among the best restaurants in India and the world.",
+            "likes": 5000,
+            "numRecipes": 100,
+            "yearsExperience": 20,
+            "recipes": [
+                {
+                  "recipeId": "rec013",
+                  "recipeName": "Potato Sphere Chaat",
+                  "ingredients": [
+                    "Potatoes",
+                    "Chickpeas",
+                    "Tamarind Chutney",
+                    "Green Chutney",
+                    "Sev",
+                    "Pomegranate Seeds"
+                  ],
+                  "cookingMethod": "Boil potatoes and chickpeas, mix with chutneys and spices, shape into balls and deep fry. Serve with sev and pomegranate seeds.",
+                  "rating": 4.8,
+                  "recipePhoto": "https://i.pinimg.com/originals/37/2d/0a/372d0a83854b3a1abbaf76e8c869c641.jpg"
+                },
+                {
+                  "recipeId": "rec014",
+                  "recipeName": "Pork Ribs Vindaloo",
+                  "ingredients": [
+                    "Pork Ribs",
+                    "Onion",
+                    "Tomatoes",
+                    "Vinegar",
+                    "Red Chilies",
+                    "Garlic",
+                    "Ginger"
+                  ],
+                  "cookingMethod": "Marinate ribs in vindaloo paste made with red chilies, vinegar, garlic, and ginger. Cook with onions and tomatoes until tender.",
+                  "rating": 4.5,
+                  "recipePhoto": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/asia-unplated_ep09_vindaloo-pork-ribs-with-bhel_mg_5802.jpg"
+                },
+                {
+                  "recipeId": "rec015",
+                  "recipeName": "Butter Chicken",
+                  "ingredients": [
+                    "Chicken",
+                    "Tomatoes",
+                    "Cream",
+                    "Butter",
+                    "Garam Masala",
+                    "Kasuri Methi"
+                  ],
+                  "cookingMethod": "Marinate chicken in yogurt and spices, then grill or bake. Make a tomato and cream sauce with butter, garam masala, and kasuri methi. Simmer chicken in sauce.",
+                  "rating": 4.7,
+                  "recipePhoto": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&webp=true&resize=440,400"
+                },
+                {
+                  "recipeId": "rec016",
+                  "recipeName": "Tandoori Lamb Chops",
+                  "ingredients": [
+                    "Lamb Chops",
+                    "Yogurt",
+                    "Ginger",
+                    "Garlic",
+                    "Spices",
+                    "Lemon Juice"
+                  ],
+                  "cookingMethod": "Marinate lamb chops in yogurt and spices, including ginger and garlic. Grill or bake until cooked to desired doneness. Squeeze lemon juice over before serving.",
+                  "rating": 4.6,
+                  "recipePhoto": "https://img-global.cpcdn.com/recipes/a5aae5a7d84ff055/1200x630cq70/photo.jpg"
+                }
+              ]
+          },
+          {
+            "id": "chef005",
+            "chefName": "Atul Kochhar",
+            "chefPhoto": "https://foodiesfestival.com/wp-content/uploads/2021/12/AtulKochhar-square.jpg",
+            "bio": "Atul Kochhar is a Michelin-starred chef and restaurateur who specializes in modern Indian cuisine. He has over 30 years of experience in the culinary industry.",
+            "likes": 5000,
+            "numRecipes": 100,
+            "yearsExperience": 30,
+            "recipes": [
+                {
+                  "recipeId": "rec017",
+                  "name": "Butter Chicken",
+                  "ingredients": [
+                    "chicken",
+                    "butter",
+                    "tomato puree",
+                    "cream",
+                    "spices"
+                  ],
+                  "cookingMethod": "Marinate chicken in spices, grill until cooked through. In a separate pan, melt butter and add tomato puree and cream. Add chicken to the sauce and let simmer for a few minutes. Serve hot.",
+                  "rating": 4.8,
+                  "recipePhoto": "https://niksharmacooks.com/wp-content/uploads/2022/11/ButterChickenDSC_5616.jpg"
+                },
+                {
+                  "recipeId": "rec018",
+                  "name": "Palak Paneer",
+                  "ingredients": [
+                    "paneer",
+                    "spinach",
+                    "onion",
+                    "tomato",
+                    "spices"
+                  ],
+                  "cookingMethod": "Blanch spinach and puree in a blender. In a separate pan, saute onions and tomatoes until soft. Add spices and spinach puree. Add paneer and let simmer for a few minutes. Serve hot.",
+                  "rating": 4.5,
+                  "recipePhoto": "https://www.seriouseats.com/thmb/lhYY8CqBJoDwxj57KFAiY9pORhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG"
+                },
+                {
+                  "recipeId": "rec019",
+                  "name": "Samosas",
+                  "ingredients": [
+                    "potatoes",
+                    "peas",
+                    "flour",
+                    "spices",
+                    "oil"
+                  ],
+                  "cookingMethod": "Boil potatoes and mash with peas and spices. Make a dough with flour and water. Roll out dough and cut into circles. Fill each circle with potato mixture and fold into a triangle. Fry in hot oil until golden brown. Serve hot.",
+                  "rating": 4.6,
+                  "recipePhoto": "https://www.seriouseats.com/thmb/4HxqFS6SHsh1XBCXWWHbsyrGOxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210909-SAMOSAS-ANDREWJANJIGIAN-86-ca872c2eae8e4e7eb4e7b47cfad8715e.jpg"
+                },
+                {
+                  "recipeId": "rec020",
+                  "name": "Chole Bhature",
+                  "ingredients": [
+                    "chickpeas",
+                    "flour",
+                    "spices",
+                    "oil",
+                    "yogurt"
+                  ],
+                  "cookingMethod": "Soak chickpeas overnight. Boil chickpeas with spices until cooked through. Make a dough with flour and yogurt. Roll out dough and fry in hot oil until puffed up. Serve hot with chickpeas.",
+                  "rating": 4.7,
+                  "recipePhoto": "https://www.edeka.de/media/01_Rezeptbilder/Rezeptbilder-A-D/REZ_EDEKA-Chole-Bhature-Rezept-A-D.jpg?imwidth=960&imdensity=1"
+                }
+              ]
+          },
+          {
+            "id": "chef006",
+            "chefName": "Kunal Kapur",
+            "chefPhoto": "https://ohthepeopleyoumeet.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-03-at-2.23.29-PM-e1581610051777.png",
+            "bio": "Kunal Kapur is an Indian celebrity chef and television personality. He has hosted several television shows, including MasterChef India and Pickle Nation. Kapur is also the author of several cookbooks.",
+            "likes": 600,
+            "numRecipes": 30,
+            "yearsExperience": 5,
+            "recipes": [
+                {
+                  "recipeId": "rec021",
+                  "name": "Paneer Tikka Masala",
+                  "ingredients": [
+                    "paneer",
+                    "yogurt",
+                    "spices",
+                    "onions",
+                    "tomatoes"
+                  ],
+                  "cookingMethod": "Marinate paneer in yogurt and spices, grill until slightly charred. In a separate pan, sauté onions and tomatoes with spices. Add paneer to the pan and let simmer for a few minutes. Serve hot.",
+                  "rating": 4.7,
+                  "recipePhoto": "https://img.taste.com.au/1xpeJEYD/taste/2019/06/one-pan-paneer-and-spinach-tikka-masala-150801-1.jpg"
+                },
+                {
+                  "recipeId": "rec022",
+                  "name": "Chicken Biryani",
+                  "ingredients": [
+                    "chicken",
+                    "rice",
+                    "spices",
+                    "onions",
+                    "yogurt"
+                  ],
+                  "cookingMethod": "Marinate chicken in yogurt and spices, cook rice separately. In a separate pan, sauté onions and spices. Add chicken to the pan and let simmer for a few minutes. Layer chicken and rice in a pot and cook until heated through. Serve hot.",
+                  "rating": 4.9,
+                  "recipePhoto": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg"
+                },
+                {
+                  "recipeId": "rec023",
+                  "name": "Fish Curry",
+                  "ingredients": [
+                    "fish",
+                    "coconut milk",
+                    "spices",
+                    "tomatoes",
+                    "onions"
+                  ],
+                  "cookingMethod": "Sauté onions and tomatoes in a pan with spices. Add fish and coconut milk, let simmer for a few minutes. Serve hot.",
+                  "rating": 4.5,
+                  "recipePhoto": "https://vismaifood.com/storage/app/uploads/public/daa/96d/7bc/thumb__700_0_0_0_auto.jpg"
+                },
+                {
+                  "recipeId": "rec024",
+                  "name": "Mango Lassi",
+                  "ingredients": [
+                    "mango",
+                    "yogurt",
+                    "milk",
+                    "sugar",
+                    "cardamom"
+                  ],
+                  "cookingMethod": "Blend all ingredients together in a blender until smooth. Serve cold.",
+                  "rating": 4.6,
+                  "recipePhoto": "https://images.ctfassets.net/99ef2wobcp71/6mENakwQnsLG25HYrvFWFP/60213587c6d58f13f168022bb2211d2c/14_Dairy-Free_Mango_Lassi.jpg"
+                }
+              ]
+          }
+    ]
+}
